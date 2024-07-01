@@ -64,5 +64,4 @@ pip3 install -r requirements.txt
 python3 linear_regression.py or random_forest_regressor.py
 ```
 
-**Note:**
-I have hardcoded the ODI dataset in the code. You can change it to other datasets and test it. You can also play with other features which are included in the dataset. You can also play along with the Custom accuracy thresolds.
+
